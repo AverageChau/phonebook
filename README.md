@@ -1,4 +1,4 @@
-# phonebook
+# phonebook - sameple code for java proof
 
  
 A phonebook program that add, find, delete and sort contacts.
